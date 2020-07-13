@@ -1,0 +1,33 @@
+.outer-box{
+    height:400px;
+    width: 300px;
+    padding-top: 20px;
+    background-color: lightgreen
+}
+.first{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    background-color: midnightblue;
+}
+.second{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: tomato;
+}
+.third{
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: indigo;
+}
+.fourth{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    margin-top: -220px;
+    margin-left: 140px;
+}
